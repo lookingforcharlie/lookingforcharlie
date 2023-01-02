@@ -8,7 +8,7 @@ I've been working as an Event Coordinator for 10 years. Got me on board programm
 
 * 🌍  I'm based in Ontario, Canada
 * 🖥️  See my portfolio at [My Portfolio](http://meetxb.com)
-* 🧠  I'm learning JWT
+* 🧠  I'm learning JWT, TypeScript, Next.js
 * ⚡  My record for keeping soccer ball up is 290 times.
 
 ### Skills
