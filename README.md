@@ -4,12 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 ---------------------------------------------
 
-I've been working as an Event Coordinator for 10 years. Got me on board programming in Jan 2021, and coding almost every day since then.
+I am a Software Engineer come from a background as a succesful Event Coordinator. Got on board programming in Jan 2021, and coding almost every day since then.
 
 * 🌍  I'm based in Ontario, Canada
 * 🖥️  See my portfolio at [My Portfolio](http://meetxb.com)
-* 🧠  I'm learning JWT, TypeScript, Next.js
-* ⚡  My record for keeping a soccer ball up is 320 times.
+* ⚡  My record for juggling a soccer ball up is 320 times.
 
 ### Skills
 
